@@ -1,0 +1,11 @@
+{
+  "name": "Menlo Park 24/7 Plumbing",
+  "short_name": "Menlo Park Plumbing",
+  "icons": [
+    {"src": "/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ],
+  "theme_color": "#2B2E33",
+  "background_color": "#FFFFFF",
+  "display": "browser"
+}
